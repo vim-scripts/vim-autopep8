@@ -5,3 +5,5 @@ vim-autopep8 is a Vim plugin that applies autopep8 to your current file.
 autopep8 automatically formats Python code to conform to the PEP 8 style guide.
 
 see also https://github.com/tell-k/vim-autopep8
+
+domentaion https://vim-autopep8.readthedocs.org/en/latest/
