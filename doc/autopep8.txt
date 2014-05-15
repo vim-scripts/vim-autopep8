@@ -2,7 +2,7 @@
 
 Author: tell-k  (ffk2005 AT gmail DOT com)
 For Vim version 7 and above
-Last change: 2014 Mar 3
+Last change: 2014 May 15
 
 1. Overview         |autopep8-overview|
 2. Required         |autopep8-required|
@@ -77,6 +77,11 @@ Set maximum allowed line length (default: 79)
 Enable possibly unsafe changes (E711, E712) (default: non defined)
 >
  let g:autopep8_aggressive=1
+<
+
+Number of spaces per indent level (default: 4)
+>
+ let g:autopep8_indent_size=2
 <
 
 Disable show diff window
